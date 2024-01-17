@@ -1,1 +1,2 @@
 # Reflection
+Design thinking projects help me strengthen both my problem-solving and critical thinking abilities. As a computer science student, this project encourages me to listen, identify the problems in our environment, and come up with original solutions. We also have the chance to interview some of the more experienced lecturers and technicians in the field of computer science throughout this assignment, which gives us a lot of additional insight into the subject we will be studying.
