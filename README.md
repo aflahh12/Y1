@@ -11,4 +11,4 @@
 - SECP2613 System Analysis & Design
 - SECR1033 Computer Organization & Architecture
 - SECV2113 Human Computer Interaction
-- ULRS1182 Appreciation Of Ethic & Civilizations
+- ULRS1182 Appreciation Of Ethics & Civilizations
